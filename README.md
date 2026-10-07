@@ -1,4 +1,4 @@
-# Hi, I'm Rich Ungsunan
+# Hi, I'm Richard Ungsunan
 
 Data engineer based in New York City, with experience building end-to-end data pipelines on modern cloud infrastructure. Currently focused on GCP-based architectures and exploring LLM integration into data workflows.
 
